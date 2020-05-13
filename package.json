@@ -1,0 +1,23 @@
+{
+  "name": "myprofile",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pg": "^6.4.2"
+  },
+  "description": "#This is an update for the master branch  # MyProfile This is my personal profile on github to showcase my skills and portfolio online [MyProfile] (https://rejreign.github.io/MyProfile/index.html)",
+  "main": "createTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rejreign/MyProfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rejreign/MyProfile/issues"
+  },
+  "homepage": "https://github.com/rejreign/MyProfile#readme"
+}
